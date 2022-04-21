@@ -2,7 +2,7 @@ h1 {
 
 color: orange;
 
-font-size: 20pt;
+font-size: 50pt;
 
 }
 
@@ -12,6 +12,12 @@ h2 {
 
 color: grey;
 
-font-size: 10pt;
+font-size: 20pt;
 
+}
+
+h3 {
+color: lightblue;
+
+fontsize: 10pt;
 }
