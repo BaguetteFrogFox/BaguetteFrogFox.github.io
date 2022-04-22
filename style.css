@@ -14,25 +14,28 @@ font-size: 20pt;
 
 h3 {
 color: lightblue;
-fontsize: 10pt;
+font-size: 10pt;
 }
 
 
 
 h4 {
 color: grey;
+font-size: 7pt;
 }
 
 
 
 h5 {
 color: darkgreen;
+font-size: 7pt;
 }
 
 
 
 h6 {
 color: lightgreen;
+font-size: 7pt;
 }
 
 
