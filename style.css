@@ -1,23 +1,43 @@
 h1 {
-
 color: orange;
-
 font-size: 50pt;
-
 }
 
 
 
 h2 {
-
 color: grey;
-
 font-size: 20pt;
-
 }
+
+
 
 h3 {
 color: lightblue;
-
 fontsize: 10pt;
+}
+
+
+
+h4 {
+color: grey;
+}
+
+
+
+h5 {
+color: darkgreen;
+}
+
+
+
+h6 {
+color: lightgreen;
+}
+
+
+
+h7 {
+color: yellow;
+font-size: 20pt;
 }
